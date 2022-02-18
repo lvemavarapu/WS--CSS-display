@@ -1,0 +1,19 @@
+/* h1,h2{
+    display: inline;
+}
+
+img{
+    display: inline-block;
+    width: 200px;
+    height:200px;
+    margin-top: 10px;
+    margin-left:20px;
+} */
+
+#one > .inside > h1{
+    color:red;
+}
+#two > h1{
+    color:orange;
+}
+
